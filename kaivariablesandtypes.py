@@ -9,7 +9,7 @@ print(sum_of_ab)
 result_int= a +b
 print(result_int)
 
-printing a comment on this string because it is where the code was, was, was throwing an error about how you cannot didive by 0, I will ask my math prof about that but for now lets just say it's an undefined number and leave it there.
+#printing a comment on this string because it is where the code was, was, was throwing an error about how you cannot didive by 0, I will ask my math prof about that but for now lets just say it's an undefined number and leave it there.
 dividend_of_ab=a/ b
 print(dividend_of_ab)
 
@@ -42,10 +42,11 @@ print(multiple_of_ac)
 
 
 d = "hello"
-e= "world"
-f= "!"
+e= " "
+f= "world"
+g= "!"
 
-sum_of_def= d + e + f
+sum_of_def= d + e + f + g
 print(sum_of_def)
 
 print("this is the sum of the linguistic int")
@@ -56,3 +57,6 @@ print(result_int)
 print("This is the sum of the liguistic float")
 result_float=d +e+f
 print(result_float)
+
+float(a / b)
+print(float)
