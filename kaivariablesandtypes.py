@@ -53,7 +53,7 @@ print("this is the sum of the linguistic int")
 result_int=d+e+f
 print(result_int)
 
-
+#you can add spaces between variables and mathematical signs, or not
 print("This is the sum of the liguistic float")
 result_float=d +e+f
 print(result_float)
