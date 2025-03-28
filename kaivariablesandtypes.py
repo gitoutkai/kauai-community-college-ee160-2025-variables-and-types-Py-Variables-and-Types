@@ -1,14 +1,15 @@
 a= 10000
 b= 3
 c= 0
-
+#here are my three variables
 sum_of_ab= a + b
-
+#this is the sum of two variables
 print(sum_of_ab)
 
 result_int= a +b
+#this turns the result into an integer
 print(result_int)
-
+#printing that result
 #printing a comment on this string because it is where the code was, was, was throwing an error about how you cannot didive by 0, I will ask my math prof about that but for now lets just say it's an undefined number and leave it there.
 dividend_of_ab=a/ b
 print(dividend_of_ab)
