@@ -1,0 +1,12 @@
+#Variables Types and Usine an IDE
+#Hey I appreciate the recap of the punch card system  I didn't know that's how that worked 
+#It is interesting that they ever used a punch card system was used to store data and instructions cuz a yes no answer is not enough to store data
+
+var1= 10000
+var2=3
+var3=0
+
+
+
+print(var1)
+print ("end of line")
