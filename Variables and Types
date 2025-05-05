@@ -68,5 +68,4 @@ print(result_float)
 float(a / b)
 print(float)
 
-print(var1)
-print ("end of line")
+print ("end of line and end of the code.")
